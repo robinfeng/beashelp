@@ -2,9 +2,11 @@
 Translate the help document of be.as add-on in Chinese.
 将 be.as 在线帮助翻译成中文。
 
-主页: [https://github.com/robinfeng/beashelp/wiki](https://github.com/robinfeng/beashelp/wiki)
+## 主页: [https://github.com/robinfeng/beashelp/wiki](https://github.com/robinfeng/beashelp/wiki)
 
-参考: [http://portal.beascloud.com/docs/help/online_eng/](http://portal.beascloud.com/docs/help/online_eng/)
+## 参考: [http://portal.beascloud.com/docs/help/online_eng/](http://portal.beascloud.com/docs/help/online_eng/)
+
+## 附件
 
 * [beas 数据结构](https://github.com/robinfeng/beashelp/blob/master/Extra.database.description.pdf) 
 * 若在使用过程中遇到问题, 可以通过 beas 系统集成服务门户提交问题, 请:
